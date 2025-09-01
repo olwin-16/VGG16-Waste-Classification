@@ -6,4 +6,4 @@ Working in collaboration with EcoClean, a company aiming to automate its waste s
 
 By fine-tuning the VGG16 model on a dataset of waste images, I will train and evaluate a classifier that can be applied in real-world waste management to boost automation and environmental sustainability.
 
-This project will help me build practical skills in computer vision and transfer learning, using a powerful pre-trained convolutional neural network to solve an important environmental problem.
+This project will help me build practical skills in Computer Vision and transfer learning, using a powerful pre-trained convolutional neural network to solve an important environmental problem.
